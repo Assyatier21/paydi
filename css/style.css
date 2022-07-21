@@ -166,7 +166,7 @@ a:hover {
 }
 
 .bg-gray {
-  background: #fafafa;
+  background: white;
 }
 
 .bg-blue {
@@ -378,6 +378,9 @@ button:focus,
     #06734d 50%,
     #01794f 70%
   );
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
   color: #fff;
   outline: none;
 }
