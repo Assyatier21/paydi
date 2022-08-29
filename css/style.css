@@ -255,7 +255,10 @@ a:hover {
   line-height: 125px;
   text-align: center;
 }
-
+.pp-paydi p,
+.df p {
+  text-align: justify;
+}
 @media (max-width: 992px) {
   .video .video-box a i {
     height: 80px;
